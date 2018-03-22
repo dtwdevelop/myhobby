@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 3f076736936a03d418062a9774509892
+timeCreated: 1519049460
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ailerons
+    100002: Camera
+    100004: canards
+    100006: elevons
+    100008: flaps
+    100010: frontgear
+    100012: frontgear_support__TurnAngle_15_
+    100014: glass
+    100016: glass.001
+    100018: hatch__TurnAngle_75_
+    100020: hatch__TurnAngle_85_
+    100022: hatch_left
+    100024: hatch_right
+    100026: Lamp
+    100028: Lamp.001
+    100030: Lamp.002
+    100032: maingear_support
+    100034: maingears
+    100036: nozzles
+    100038: PakFa
+    100040: Part192
+    100042: Part195
+    100044: Part196
+    100046: Part197
+    100048: Part23
+    100050: rudders
+    100052: screens
+    100054: slats
+    100056: //RootNode
+    100058: T_50
+    100060: wings
+    400000: ailerons
+    400002: Camera
+    400004: canards
+    400006: elevons
+    400008: flaps
+    400010: frontgear
+    400012: frontgear_support__TurnAngle_15_
+    400014: glass
+    400016: glass.001
+    400018: hatch__TurnAngle_75_
+    400020: hatch__TurnAngle_85_
+    400022: hatch_left
+    400024: hatch_right
+    400026: Lamp
+    400028: Lamp.001
+    400030: Lamp.002
+    400032: maingear_support
+    400034: maingears
+    400036: nozzles
+    400038: PakFa
+    400040: Part192
+    400042: Part195
+    400044: Part196
+    400046: Part197
+    400048: Part23
+    400050: rudders
+    400052: screens
+    400054: slats
+    400056: //RootNode
+    400058: T_50
+    400060: wings
+    2100000: glass
+    2100002: PakFa
+    2100004: pilot
+    2100006: PakFa_MATTE
+    2100008: PakFa_ENGM
+    2100010: cockpit
+    2100012: aam
+    2100014: optic
+    2100016: inst
+    2300000: ailerons
+    2300002: canards
+    2300004: elevons
+    2300006: flaps
+    2300008: frontgear
+    2300010: frontgear_support__TurnAngle_15_
+    2300012: glass
+    2300014: glass.001
+    2300016: hatch__TurnAngle_75_
+    2300018: hatch__TurnAngle_85_
+    2300020: hatch_left
+    2300022: hatch_right
+    2300024: maingear_support
+    2300026: maingears
+    2300028: nozzles
+    2300030: PakFa
+    2300032: Part192
+    2300034: Part195
+    2300036: Part196
+    2300038: Part197
+    2300040: Part23
+    2300042: rudders
+    2300044: screens
+    2300046: slats
+    2300048: T_50
+    2300050: wings
+    3300000: ailerons
+    3300002: canards
+    3300004: elevons
+    3300006: flaps
+    3300008: frontgear
+    3300010: frontgear_support__TurnAngle_15_
+    3300012: glass
+    3300014: glass.001
+    3300016: hatch__TurnAngle_75_
+    3300018: hatch__TurnAngle_85_
+    3300020: hatch_left
+    3300022: hatch_right
+    3300024: maingear_support
+    3300026: maingears
+    3300028: nozzles
+    3300030: PakFa
+    3300032: Part192
+    3300034: Part195
+    3300036: Part196
+    3300038: Part197
+    3300040: Part23
+    3300042: rudders
+    3300044: screens
+    3300046: slats
+    3300048: T_50
+    3300050: wings
+    4300000: glass
+    4300002: PakFa
+    4300004: glass.001
+    4300006: hatch__TurnAngle_75_
+    4300008: maingear_support
+    4300010: rudders
+    4300012: hatch_left
+    4300014: Part192
+    4300016: Part195
+    4300018: elevons
+    4300020: Part197
+    4300022: frontgear
+    4300024: hatch__TurnAngle_85_
+    4300026: slats
+    4300028: T_50
+    4300030: wings
+    4300032: hatch_right
+    4300034: ailerons
+    4300036: maingears
+    4300038: screens
+    4300040: frontgear_support__TurnAngle_15_
+    4300042: flaps
+    4300044: Part23
+    4300046: nozzles
+    4300048: canards
+    4300050: Part196
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
